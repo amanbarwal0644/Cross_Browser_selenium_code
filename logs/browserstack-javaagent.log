@@ -1,0 +1,16 @@
+16:13:43.362 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\admin\eclipse-workspace\Crrosing. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:13:43.370 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\admin\eclipse-workspace\Crrosing. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:16:19.613 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:16:19.625 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+16:16:19.626 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:16:23.970 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pszqisybtruwhjhrzxbf2gjbl4p47q6zkmffmmwj to view build report, insights, and many more debugging information all at one place!
+
+16:16:24.168 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+16:16:24.168 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+16:22:22.220 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:22:22.234 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+16:22:22.234 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:22:46.456 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sifzys8ymqtkeecusdohj2z6vlzuc5wnlxzuevds to view build report, insights, and many more debugging information all at one place!
+
+16:22:46.799 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+16:22:46.800 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
