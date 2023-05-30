@@ -10,14 +10,6 @@ import org.testng.annotations.Test;
 
 public class java_test_script {
 
-
-
-
-
-
-	
-
-		
 		
 		@Test
 		public void titlecheck() throws MalformedURLException {
